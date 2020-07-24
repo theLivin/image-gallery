@@ -1,6 +1,6 @@
 const state = {
   images: [],
-  numberOfImages: 18,
+  numberOfImages: 6,
   activeId: 1,
 };
 const getters = {
